@@ -11,5 +11,6 @@
 -En proceso 
 # Instalación:
 - https://github.com/ojedaflor08-boop/Calculadora-MDF.git
-#Funciones disponibles
+
+#Funciones disponibles:
 -El sistema consiste 
