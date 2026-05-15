@@ -16,7 +16,6 @@
 -----------------
 #Funciones disponibles:
 -----------------
--El programa consiste en una calculadores que te devuelve resultados de las siguientes operaciones matematicas: 
------------------
+-El programa consiste en una calculadora que te devuelve resultados de las siguientes operaciones matematicas: 
 -Suma-Resta-Multiplicación-Division-
------------------
+
