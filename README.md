@@ -1,4 +1,4 @@
-~Calculadora-MDF~
+Calculadora-MDF
 -----------------
 # Integrantes: 
 -----------------
