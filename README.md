@@ -11,9 +11,12 @@
 -En proceso
 -----------------
 #Instalación:
+-----------------
 -https://github.com/ojedaflor08-boop/Calculadora-MDF.git
 -----------------
 #Funciones disponibles:
- -El programa consiste en una calculadores que te devuelve resultados de las siguientes operaciones matematicas: 
+-----------------
+-El programa consiste en una calculadores que te devuelve resultados de las siguientes operaciones matematicas: 
+-----------------
 -Suma-Resta-Multiplicación-Division-
 -----------------
