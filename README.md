@@ -1,6 +1,6 @@
 Calculadora-MDF
 -----------------
-# Integrantes: 
+#Integrantes: 
 -----------------
 -Florencia Ojeda 
 -----------------
@@ -8,7 +8,7 @@ Calculadora-MDF
 -----------------
 -Martin Galarza
 -----------------
-# Estado de de proyecto:
+#Estado de de proyecto:
 -En proceso
 -----------------
 #Instalación:
